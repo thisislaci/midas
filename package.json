@@ -17,7 +17,7 @@
     "ejs": "0.8.5",
     "email-templates": "~0.1.5",
     "git-rev": "0.2.x",
-    "gm": "~1.14.2",
+    "gm": "~1.25.0",
     "grunt": "0.4.5",
     "grunt-browserify": "^3.5.1",
     "grunt-contrib-cssmin": "0.11.0",
