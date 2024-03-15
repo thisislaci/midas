@@ -33,7 +33,7 @@
     "moment": "2.5.0",
     "newrelic": "1.16.1",
     "node-uuid": "1.4.x",
-    "nodemailer": "0.6.x",
+    "nodemailer": "4.0.1",
     "optimist": "0.4.0",
     "passport": "0.2.x",
     "passport-http-bearer": "^1.0.1",
