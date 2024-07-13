@@ -9,7 +9,7 @@
     "backbone": "^1.1.2",
     "bcrypt": "0.7.7",
     "blueimp-file-upload": "9.5.7",
-    "bootstrap": "^3.3.4",
+    "bootstrap": "^5.0.0",
     "bootstrap-datetimepicker": "https://github.com/Eonasdan/bootstrap-datetimepicker/archive/v2.1.30.tar.gz",
     "browserify": "^9.0.3",
     "chai": "2.1.2",
