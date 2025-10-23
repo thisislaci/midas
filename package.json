@@ -42,7 +42,7 @@
     "passport-myusa": "1.0.x",
     "passport-oauth": "1.0.x",
     "request": "2.x",
-    "sails": "0.10.5",
+    "sails": "1.0.0",
     "sails-build-dictionary": "0.10.1",
     "sails-disk": "~0.10.0",
     "sails-postgresql": "18F/sails-postgresql#softdelete",
