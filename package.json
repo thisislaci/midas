@@ -18,7 +18,7 @@
     "email-templates": "~0.1.5",
     "git-rev": "0.2.x",
     "gm": "~1.14.2",
-    "grunt": "0.4.5",
+    "grunt": "1.2.0",
     "grunt-browserify": "^3.5.1",
     "grunt-contrib-cssmin": "0.11.0",
     "grunt-jsonlint": "1.0.4",
@@ -42,7 +42,7 @@
     "passport-myusa": "1.0.x",
     "passport-oauth": "1.0.x",
     "request": "2.x",
-    "sails": "0.10.5",
+    "sails": "1.0.0",
     "sails-build-dictionary": "0.10.1",
     "sails-disk": "~0.10.0",
     "sails-postgresql": "18F/sails-postgresql#softdelete",
@@ -52,7 +52,7 @@
     "timepicker": "jonthornton/jquery-timepicker#1.2.15",
     "uglifyify": "^3.0.1",
     "underscore": "^1.8.2",
-    "validator": "3.4.0"
+    "validator": "13.15.22"
   },
   "devDependencies": {
     "casper-chai": "^0.2.1",
