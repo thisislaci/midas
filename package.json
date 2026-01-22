@@ -15,7 +15,7 @@
     "chai": "2.1.2",
     "connect-pg-simple": "^2.2.1",
     "ejs": "0.8.5",
-    "email-templates": "~0.1.5",
+    "email-templates": "~11.1.1",
     "git-rev": "0.2.x",
     "gm": "~1.14.2",
     "grunt": "0.4.5",
