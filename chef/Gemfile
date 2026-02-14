@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
   gem 'knife-solo'
-  gem 'berkshelf'
+  gem 'berkshelf', '>= 7.0.0'
